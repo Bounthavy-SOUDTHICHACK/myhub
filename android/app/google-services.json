@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234365515103",
+    "project_id": "pizza-hub-6136c",
+    "storage_bucket": "pizza-hub-6136c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234365515103:android:c0fc28c0b5d929623932ea",
+        "android_client_info": {
+          "package_name": "sitthilath.pizza_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234365515103-dqhnqle1bec5oimsui7trd8q2a40e0ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffjl5pmcoLwz8y8BUJESShywuMG38ilQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234365515103-dqhnqle1bec5oimsui7trd8q2a40e0ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

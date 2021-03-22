@@ -1,0 +1,6 @@
+package sitthilath.pizza_hub
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

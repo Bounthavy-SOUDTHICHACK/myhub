@@ -1,0 +1,16 @@
+Index: pizza_hub/lib/Screen/Home/promotion.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pizza_hub/lib/Screen/Home/promotion.dart	(revision 37719004e42bfa422031c7e36eb64d35f6a25ac9)
++++ pizza_hub/lib/Screen/Home/promotion.dart	(date 1616388140996)
+@@ -53,7 +53,7 @@
+ }
+ Widget_card(){
+   return Card(
+-    child: new Image.network(),
++    // child: new Image.network(),
+     shape: RoundedRectangleBorder(
+       borderRadius: BorderRadius.all(Radius.circular(30))
+     ),
